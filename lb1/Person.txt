@@ -1,0 +1,42 @@
+Person 
+10
+Michael Black
+1 1 2002
+Nurse
+487
+Greg Ellis
+7 3 1999
+Nurse
+766
+Erik Gonzales
+31 8 1984
+Orderly
+800
+William Gonzales
+25 11 2004
+Intern
+600
+James Guerrero
+1 9 1939
+Doctor
+1000
+Kevin Barnes
+4 5 2005
+Intern
+450
+John Hill
+6 10 1976
+Doctor
+980
+Gregory Harrison
+2 5 2001
+Intern
+380
+Robert Moore
+26 4 1986
+Orderly
+607
+Walter Hayes
+8 3 1994
+Orderly
+543
